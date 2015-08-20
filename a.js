@@ -1,2 +1,1 @@
-alert(123345345345);
-alert('xxxxx');
+alert(1);
